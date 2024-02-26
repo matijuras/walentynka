@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Walentynka</title>
+    <style>
+        body {
+            background-color: #f8d7da;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #721c24;
+        }
+        p {
+            color: #721c24;
+        }
+        .heart {
+            color: #dc3545;
+        }
+    </style>
+</head>
+<body>
+    <h1>Walentynki</h1>
+    <p>Wszystkiego najlepszego z okazji Walentynek!</p>
+    <p>Niech miłość będzie z Tobą zawsze <span class="heart">❤</span></p>
+</body>
+</html>
